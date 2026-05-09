@@ -1,0 +1,50 @@
+[
+  {
+    "id": "staff-1",
+    "name": "Sunitha Rao",
+    "nameTe": "సునీతా రావు",
+    "role": {
+      "en": "Senior Hair Stylist",
+      "te": "సీనియర్ హెయిర్ స్టైలిస్ట్"
+    },
+    "specialties": ["Hair Cut", "Hair Coloring", "Hair Spa"],
+    "experience": "12 years",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300"
+  },
+  {
+    "id": "staff-2",
+    "name": "Kavitha Menon",
+    "nameTe": "కవిత మీనన్",
+    "role": {
+      "en": "Skin Care Specialist",
+      "te": "స్కిన్ కేర్ స్పెషలిస్ట్"
+    },
+    "specialties": ["Facial", "HydraFacial", "De-Tan"],
+    "experience": "10 years",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300"
+  },
+  {
+    "id": "staff-3",
+    "name": "Radha Kumar",
+    "nameTe": "రాధా కుమార్",
+    "role": {
+      "en": "Makeup Artist",
+      "te": "మేకప్ ఆర్టిస్ట్"
+    },
+    "specialties": ["Bridal Makeup", "Party Makeup"],
+    "experience": "8 years",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=300"
+  },
+  {
+    "id": "staff-4",
+    "name": "Meera Iyer",
+    "nameTe": "మీరా అయ్యర్",
+    "role": {
+      "en": "Nail Technician",
+      "te": "నెయిల్ టెక్నీషియన్"
+    },
+    "specialties": ["Manicure", "Pedicure", "Nail Art"],
+    "experience": "6 years",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300"
+  }
+]

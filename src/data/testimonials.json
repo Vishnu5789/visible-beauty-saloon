@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "nameTe": "ప్రియా శర్మ",
+    "text": {
+      "en": "Amazing service! The bridal makeup was flawless and lasted the entire day. Highly recommend!",
+      "te": "అద్భుతమైన సేవ! బ్రైడల్ మేకప్ అద్భుతంగా ఉంది మరియు రోజంతా ఉండిపోయింది. గట్టిగా సిఫార్సు చేస్తున్నాను!"
+    },
+    "rating": 5,
+    "service": "Bridal Makeup"
+  },
+  {
+    "id": 2,
+    "name": "Lakshmi Reddy",
+    "nameTe": "లక్ష్మి రెడ్డి",
+    "text": {
+      "en": "Best hair spa in Rajahmundry! My hair feels so soft and healthy. Will definitely come back.",
+      "te": "రాజమండ్రిలో ఉత్తమ హెయిర్ స్పా! నా జుట్టు చాలా మృదువుగా మరియు ఆరోగ్యంగా ఉంది. ఖచ్చితంగా తిరిగి వస్తాను."
+    },
+    "rating": 5,
+    "service": "Hair Spa"
+  },
+  {
+    "id": 3,
+    "name": "Divya Krishna",
+    "nameTe": "దివ్యా కృష్ణ",
+    "text": {
+      "en": "Professional staff and clean environment. The facial treatment was very relaxing. Worth every rupee!",
+      "te": "వృత్తిపరమైన సిబ్బంది మరియు శుభ్రమైన వాతావరణం. ఫేషియల్ ట్రీట్మెంట్ చాలా రిలాక్సింగ్‌గా ఉంది. ప్రతి రూపాయికి విలువైనది!"
+    },
+    "rating": 5,
+    "service": "Facial"
+  },
+  {
+    "id": 4,
+    "name": "Anjali Patel",
+    "nameTe": "అంజలి పటేల్",
+    "text": {
+      "en": "Hosted my daughter's pre-wedding party here. Beautiful venue and excellent coordination. Thank you!",
+      "te": "ఇక్కడ నా కూతురి పెళ్లి ముందు పార్టీని నిర్వహించాను. అందమైన వేదిక మరియు అద్భుతమైన సమన్వయం. ధన్యవాదాలు!"
+    },
+    "rating": 5,
+    "service": "Event"
+  }
+]

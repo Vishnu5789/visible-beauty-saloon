@@ -1,0 +1,182 @@
+[
+  {
+    "id": "hair-1",
+    "category": "Hair",
+    "name": {
+      "en": "Hair Cut & Styling",
+      "te": "జుట్టు కత్తిరింపు & స్టైలింగ్"
+    },
+    "description": {
+      "en": "Professional haircut with expert styling and finishing",
+      "te": "నిపుణుల హెయిర్‌కట్ మరియు స్టైలింగ్"
+    },
+    "price": 500,
+    "duration": 45,
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=400"
+  },
+  {
+    "id": "hair-2",
+    "category": "Hair",
+    "name": {
+      "en": "Hair Coloring",
+      "te": "జుట్టు రంగు"
+    },
+    "description": {
+      "en": "Premium hair coloring with quality products",
+      "te": "ప్రీమియం హెయిర్ కలరింగ్"
+    },
+    "price": 2500,
+    "duration": 120,
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+  },
+  {
+    "id": "hair-3",
+    "category": "Hair",
+    "name": {
+      "en": "Hair Spa Treatment",
+      "te": "హెయిర్ స్పా ట్రీట్మెంట్"
+    },
+    "description": {
+      "en": "Deep conditioning and nourishing hair spa",
+      "te": "డీప్ కండిషనింగ్ హెయిర్ స్పా"
+    },
+    "price": 1200,
+    "duration": 60,
+    "image": "https://images.unsplash.com/photo-1519415387722-a1c3bbef716c?w=400"
+  },
+  {
+    "id": "skin-1",
+    "category": "Skin",
+    "name": {
+      "en": "Facial Treatment",
+      "te": "ఫేషియల్ ట్రీట్మెంట్"
+    },
+    "description": {
+      "en": "Refreshing facial with deep cleansing and massage",
+      "te": "రిఫ్రెషింగ్ ఫేషియల్ మరియు మసాజ్"
+    },
+    "price": 800,
+    "duration": 60,
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=400"
+  },
+  {
+    "id": "skin-2",
+    "category": "Skin",
+    "name": {
+      "en": "HydraFacial",
+      "te": "హైడ్రాఫేషియల్"
+    },
+    "description": {
+      "en": "Advanced skin rejuvenation with hydradermabrasion",
+      "te": "అధునాతన స్కిన్ రీజువెనేషన్"
+    },
+    "price": 3500,
+    "duration": 90,
+    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=400"
+  },
+  {
+    "id": "skin-3",
+    "category": "Skin",
+    "name": {
+      "en": "De-Tan Treatment",
+      "te": "డి-టాన్ ట్రీట్మెంట్"
+    },
+    "description": {
+      "en": "Remove tan and restore natural skin tone",
+      "te": "టాన్ తొలగించి సహజ రంగు తిరిగి పొందండి"
+    },
+    "price": 600,
+    "duration": 45,
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=400"
+  },
+  {
+    "id": "nails-1",
+    "category": "Nails",
+    "name": {
+      "en": "Manicure",
+      "te": "మానిక్యూర్"
+    },
+    "description": {
+      "en": "Complete hand care with nail polish",
+      "te": "పూర్తి చేతుల సంరక్షణ మరియు నెయిల్ పాలిష్"
+    },
+    "price": 400,
+    "duration": 45,
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=400"
+  },
+  {
+    "id": "nails-2",
+    "category": "Nails",
+    "name": {
+      "en": "Pedicure",
+      "te": "పెడిక్యూర్"
+    },
+    "description": {
+      "en": "Relaxing foot spa with nail care",
+      "te": "రిలాక్సింగ్ ఫుట్ స్పా మరియు నెయిల్ కేర్"
+    },
+    "price": 500,
+    "duration": 60,
+    "image": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?w=400"
+  },
+  {
+    "id": "nails-3",
+    "category": "Nails",
+    "name": {
+      "en": "Gel Nail Art",
+      "te": "జెల్ నెయిల్ ఆర్ట్"
+    },
+    "description": {
+      "en": "Creative nail art with gel polish",
+      "te": "క్రియేటివ్ నెయిల్ ఆర్ట్"
+    },
+    "price": 1500,
+    "duration": 90,
+    "image": "https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=400"
+  },
+  {
+    "id": "makeup-1",
+    "category": "Makeup",
+    "name": {
+      "en": "Party Makeup",
+      "te": "పార్టీ మేకప్"
+    },
+    "description": {
+      "en": "Stunning makeup for any occasion",
+      "te": "ఏ కార్యక్రమానికైనా స్టన్నింగ్ మేకప్"
+    },
+    "price": 2000,
+    "duration": 75,
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=400"
+  },
+  {
+    "id": "makeup-2",
+    "category": "Makeup",
+    "name": {
+      "en": "Bridal Makeup",
+      "te": "బ్రైడల్ మేకప్"
+    },
+    "description": {
+      "en": "Complete bridal makeup package with trial",
+      "te": "పూర్తి బ్రైడల్ మేకప్ ప్యాకేజీ"
+    },
+    "price": 8000,
+    "duration": 150,
+    "image": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=400"
+  },
+  {
+    "id": "special-1",
+    "category": "Special",
+    "name": {
+      "en": "Pre-Bridal Package",
+      "te": "ప్రీ-బ్రైడల్ ప్యాకేజీ"
+    },
+    "description": {
+      "en": "Complete beauty package for bride-to-be",
+      "te": "పెళ్లికూతురి కోసం పూర్తి సౌందర్య ప్యాకేజీ"
+    },
+    "price": 15000,
+    "duration": 300,
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=400"
+  }
+]

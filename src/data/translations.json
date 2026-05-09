@@ -1,0 +1,168 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "booking": "Book Now",
+      "events": "Events",
+      "gallery": "Gallery",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Your Beauty, Our Passion",
+      "subtitle": "Rajahmundry's Premier Beauty Parlor & Event Venue",
+      "description": "Experience professional beauty services and host memorable events at our modern facility",
+      "bookService": "Book Salon Service",
+      "bookEvent": "Book Event Hall"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Professional beauty treatments for every occasion",
+      "viewAll": "View All Services",
+      "bookNow": "Book Now",
+      "duration": "Duration",
+      "mins": "mins"
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "subtitle": "Loved by hundreds of satisfied customers"
+    },
+    "footer": {
+      "about": "About Us",
+      "aboutText": "Premier beauty parlor in Rajahmundry offering professional services with expert staff and modern facilities.",
+      "quickLinks": "Quick Links",
+      "contactInfo": "Contact Info",
+      "address": "Main Road, Rajahmundry, Andhra Pradesh 533101",
+      "hours": "Hours",
+      "hoursText": "Mon-Sun: 9:00 AM - 8:00 PM",
+      "followUs": "Follow Us"
+    },
+    "booking": {
+      "title": "Book Your Appointment",
+      "selectService": "Select Service",
+      "selectStaff": "Choose Staff",
+      "selectDateTime": "Select Date & Time",
+      "customerDetails": "Your Details",
+      "confirmation": "Confirmation",
+      "anyStaff": "Any Available Expert",
+      "next": "Next",
+      "previous": "Previous",
+      "confirm": "Confirm Booking",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "notes": "Special Requests (Optional)",
+      "paymentMethod": "Payment Method",
+      "payNow": "Pay Now",
+      "payLater": "Pay at Salon",
+      "thankYou": "Thank You!",
+      "bookingConfirmed": "Your appointment is confirmed",
+      "bookingRef": "Booking Reference",
+      "reminderText": "You will receive SMS reminders 24h and 1h before your appointment",
+      "backHome": "Back to Home"
+    },
+    "events": {
+      "title": "Host Your Special Event",
+      "subtitle": "Perfect venue for bridal parties, birthdays, and celebrations",
+      "packages": "Event Packages",
+      "inquiry": "Event Inquiry",
+      "sendInquiry": "Send Inquiry",
+      "eventType": "Event Type",
+      "eventDate": "Preferred Date",
+      "guestCount": "Number of Guests",
+      "message": "Tell us about your event"
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "subtitle": "We'd love to hear from you",
+      "sendMessage": "Send Message",
+      "subject": "Subject",
+      "visitUs": "Visit Us",
+      "callUs": "Call Us",
+      "emailUs": "Email Us"
+    }
+  },
+  "te": {
+    "nav": {
+      "home": "హోమ్",
+      "services": "సేవలు",
+      "booking": "బుక్ చేయండి",
+      "events": "ఈవెంట్స్",
+      "gallery": "గ్యాలరీ",
+      "contact": "సంప్రదించండి"
+    },
+    "hero": {
+      "title": "మీ అందం, మా సేవ",
+      "subtitle": "రాజమండ్రి యొక్క అగ్రగామి సౌందర్య పార్లర్",
+      "description": "మా ఆధునిక సౌకర్యాల వద్ద వృత్తిపరమైన సౌందర్య సేవలను అనుభవించండి",
+      "bookService": "సేవ బుక్ చేయండి",
+      "bookEvent": "ఈవెంట్ బుక్ చేయండి"
+    },
+    "services": {
+      "title": "మా సేవలు",
+      "subtitle": "ప్రతి సందర్భానికి వృత్తిపరమైన సౌందర్య చికిత్సలు",
+      "viewAll": "అన్ని సేవలు చూడండి",
+      "bookNow": "ఇప్పుడే బుక్ చేయండి",
+      "duration": "వ్యవధి",
+      "mins": "నిమిషాలు"
+    },
+    "testimonials": {
+      "title": "మా క్లయింట్లు చెప్పేది",
+      "subtitle": "వందల మంది సంతృప్త కస్టమర్లచే ఇష్టపడబడింది"
+    },
+    "footer": {
+      "about": "మా గురించి",
+      "aboutText": "నిపుణుల సిబ్బంది మరియు ఆధునిక సౌకర్యాలతో వృత్తిపరమైన సేవలను అందించే రాజమండ్రిలో ప్రముఖ సౌందర్య పార్లర్.",
+      "quickLinks": "త్వరిత లింక్‌లు",
+      "contactInfo": "సంప్రదింపు సమాచారం",
+      "address": "మెయిన్ రోడ్, రాజమండ్రి, ఆంధ్రప్రదేశ్ 533101",
+      "hours": "సమయాలు",
+      "hoursText": "సోమ-ఆది: ఉదయం 9:00 - రాత్రి 8:00",
+      "followUs": "మమ్మల్ని అనుసరించండి"
+    },
+    "booking": {
+      "title": "మీ అపాయింట్‌మెంట్ బుక్ చేయండి",
+      "selectService": "సేవ ఎంచుకోండి",
+      "selectStaff": "స్టాఫ్ ఎంచుకోండి",
+      "selectDateTime": "తేదీ & సమయం ఎంచుకోండి",
+      "customerDetails": "మీ వివరాలు",
+      "confirmation": "నిర్ధారణ",
+      "anyStaff": "ఏదైనా అందుబాటులో ఉన్న నిపుణుడు",
+      "next": "తదుపరి",
+      "previous": "మునుపటి",
+      "confirm": "బుకింగ్ నిర్ధారించండి",
+      "name": "పూర్తి పేరు",
+      "email": "ఇమెయిల్ చిరునామా",
+      "phone": "ఫోన్ నంబర్",
+      "notes": "ప్రత్యేక అభ్యర్థనలు (ఐచ్ఛికం)",
+      "paymentMethod": "చెల్లింపు పద్ధతి",
+      "payNow": "ఇప్పుడు చెల్లించండి",
+      "payLater": "సెలూన్‌లో చెల్లించండి",
+      "thankYou": "ధన్యవాదాలు!",
+      "bookingConfirmed": "మీ అపాయింట్‌మెంట్ నిర్ధారించబడింది",
+      "bookingRef": "బుకింగ్ రిఫరెన్స్",
+      "reminderText": "మీ అపాయింట్‌మెంట్‌కు 24 గంటలు మరియు 1 గంట ముందు మీకు SMS రిమైండర్‌లు వస్తాయి",
+      "backHome": "హోమ్‌కు తిరిగి వెళ్ళండి"
+    },
+    "events": {
+      "title": "మీ ప్రత్యేక కార్యక్రమాన్ని నిర్వహించండి",
+      "subtitle": "వివాహ పార్టీలు, పుట్టినరోజులు మరియు వేడుకలకు సరైన ప్రదేశం",
+      "packages": "ఈవెంట్ ప్యాకేజీలు",
+      "inquiry": "ఈవెంట్ విచారణ",
+      "sendInquiry": "విచారణ పంపండి",
+      "eventType": "ఈవెంట్ రకం",
+      "eventDate": "ఇష్టపడే తేదీ",
+      "guestCount": "అతిథుల సంఖ్య",
+      "message": "మీ కార్యక్రమం గురించి చెప్పండి"
+    },
+    "contact": {
+      "title": "సంప్రదించండి",
+      "subtitle": "మేము మీ నుండి వినడానికి ఇష్టపడతాము",
+      "sendMessage": "సందేశం పంపండి",
+      "subject": "విషయం",
+      "visitUs": "మమ్మల్ని సందర్శించండి",
+      "callUs": "మమ్మల్ని కాల్ చేయండి",
+      "emailUs": "మమ్మల్ని ఇమెయిల్ చేయండి"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "visible-beauty-saloon-website",
+  "version": "1.0.0",
+  "description": "Visible Beauty Saloon - Rajahmundry Beauty Salon & Event Booking Website",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": ["visible", "beauty", "saloon", "salon", "booking", "rajahmundry"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-react-refresh-wrap": "^2.12.0",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "autoprefixer": "^10.4.19",
+    "process": "^0.11.10"
+  }
+}
